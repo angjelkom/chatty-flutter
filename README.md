@@ -3,7 +3,7 @@
 
 This Project is POC (Proof-of-concept) of building app Messaging application using technologies like **GraphQL**, **Provider** and etc.
 
-Its to be used in conjunction with [this project](http://github.com/echonox/chatty-nodejs) which represents the backend/server side for this app
+Its to be used in conjunction with [this project](https://github.com/echonox/chatty-nodejs) which represents the backend/server side for this app
 
 
 ## Screenshots
